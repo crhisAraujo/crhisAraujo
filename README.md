@@ -16,7 +16,7 @@ my name is Crhistian Araujo and I'm a Junior Developer at @sispro_software.
 ## And Currently Studying
 
 **Technologies:**<br>
-![JavaScript (shields.io)](https://img.shields.io/badge/-JavaScript-fcdc00?style=for-the-badge&logo=Javascript&logoColor=black) ![Node.js (shields.io)](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white) ![React.js (shields.io)](https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=React&logoColor=black) ![React.js (shields.io)](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=React&logoColor=black) ![TypeScript (shields.io)](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=Typescript&logoColor=white)
+![JavaScript (shields.io)](https://img.shields.io/badge/-JavaScript-fcdc00?style=for-the-badge&logo=Javascript&logoColor=black) ![Node.js (shields.io)](https://img.shields.io/badge/-NodeJS-43853d?style=for-the-badge&logo=node.js&logoColor=white) ![React.js (shields.io)](https://img.shields.io/badge/-ReactJS-61dafb?style=for-the-badge&logo=React&logoColor=black) ![React.js (shields.io)](https://img.shields.io/badge/-React%20Native-61dafb?style=for-the-badge&logo=React&logoColor=black) ![TypeScript (shields.io)](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=Typescript&logoColor=white)
 
 **Languages:**<br>
 ![ENGLISH (shields.io)](https://img.shields.io/badge/-English-lightgray?style=for-the-badge)
